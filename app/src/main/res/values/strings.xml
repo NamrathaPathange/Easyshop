@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Easyshop</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="forgot_password">forgot_password</string>
+    <string name="signup">signup</string>
+    <string name="easyshop">easyshop</string>
+    <string name="navigation_drawer_open">navigation_drawer_open</string>
+    <string name="navigation_drawer_close">navigation_drawer_close</string>
+    <string name="home">home</string>
+    <string name="my_profile">my_profile</string>
+    <string name="sell">sell</string>
+    <string name="logout">logout</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="product_name">product_name</string>
+</resources>
